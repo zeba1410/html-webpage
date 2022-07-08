@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> html webpage</title>
+</head>
+<body>
+<h1> UPCOMING TOURS</h1>
+<p>
+Achieve peace of mind.Enhance your creativity.
+Improve your communication skills.
+Broaden your horizons.Boost your confidence.
+Make memories
+</p>
+<img src="\C:\Users\user\Downloads\pic1.jpg">
+
+<img src="C:\Users\user\Downloads\pic2.jpg">
+<img src="C:\Users\user\Downloads\pic3.jpg">
+<img src="C:\Users\user\Downloads\pic4.jpg"> 
+<button type="button"> BOOK YOURSELF</button>
+<footer>
+<p>
+H.no 668 1st main 2nd lane Bangalore|<a href="tel:+080 2464 3980">phone +080 2464 3980</a>|<a href= "mailto:outdooradveture@gmail.com"> outdooradveture@gmail.com</a>
+</p>
+<br>
+<p>
+copyright &copy2020 outdoor adventures
+</p>
